@@ -1,0 +1,370 @@
+.brand-sidebar .logo-wrapper a.brand-logo img {
+    height: 29px;
+}
+body {
+    /*overflow: hidden;*/
+}
+.card {
+    border-radius: 6px;
+}
+.card .alb {
+    text-align: center;
+    color: #fff;
+}
+.card .alb h6 {
+    font-weight: bold;
+    color: #fff;
+    font-size: 23px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 22px;
+    opacity: 0.8;
+}
+.card .alb .profil-home {
+    border-style: dashed;
+    border-radius: 120px;
+    height: 120px;
+    width: 120px;
+    border-color: #b08fcd;
+    margin: auto;
+}
+.card .alb .profil-home img {
+    width: 85px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 120px;
+    top: 14px;
+    position: relative;
+    left: 0px;
+}
+.card .alb .profil-nume {
+    text-transform: uppercase;
+    font-size: 22px;
+    margin-top: 18px;
+    font-weight: 900;
+}
+#current-balance-donut-chart .ct-series-a .ct-slice-donut {
+    stroke: #36bb72;
+}
+.current-balance-container {
+    position: relative;
+    height: 166px;
+    margin-top: 10px;
+}
+.card .inwrapper {
+    text-align: center;
+    font-size: 18px;
+}
+.card .inwrapper .login-hour {
+    margin-bottom: 10px;
+}
+.card .inwrapper img {
+    width: 144px;
+    margin-bottom: 10px;
+}
+.card .inwrapper .timer {
+    color: #2fc884;
+}
+.butoane-acasa {
+    margin-top: -10px;
+}
+.butoane-acasa i {
+    top: 2px !important;
+    left: 19px !important;
+}
+.butoane-acasa a {
+    font-weight: bold;
+    margin: 10px;
+}
+.app-todo .content-area {
+    width: 100%;
+    margin-top: 0px;
+}
+.app-todo .content-area .task-titlu {
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    left: -21px;
+    color: #333;
+}
+.labeldetask {
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    border-radius: 14px;
+    margin-right: 3px;
+}
+.list-date {
+    color: #31c47e !important;
+    font-size: 13px;
+    font-weight: bold;
+}
+.widget-table-accounting .heading-icons .btn i {
+    position: relative;
+    top: 4px;
+}
+.overflow-y-list {
+    overflow-y: scroll !important;
+    scrollbar-width: thin;
+    scrollbar-color: #dadada transparent;
+}
+.header-group {
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 20px auto;
+    border: 1px solid #cccccc;
+}
+.logokendragroup {
+    width: 140px;
+}
+.cover-group {
+    -webkit-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 13px;
+    color: #e3e3e3;
+}
+.cover-group .titlu-group {
+    margin: 20px auto;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.cover-group .statistica-group {
+    width: 50%;
+    margin: auto;
+    border-top: 1px solid;
+    margin-bottom: 40px;
+}
+.cover-group .statistica-group ul {
+    padding: 0;
+    margin: 0;
+}
+.cover-group .statistica-group ul li {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    border-right: 1px solid;
+    padding: 15px 0;
+}
+.cover-group .statistica-group ul li b, .cover-group .statistica-group ul li span {
+    display: block;
+    text-align: center;
+}
+.cover-group .statistica-group ul li span {
+    font-size: 22px;
+}
+.cover-group .statistica-group ul li:last-child {
+    border: 0;
+}
+.cover-group .statistica-group ul li b {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1;
+}
+.nav-group {
+    line-height: 60px;
+    background: #fff;
+    color: #333;
+}
+.pe-jumate {
+    text-align: center;
+}
+.pe-dreapta {
+    text-align: right;
+}
+.nav-group .select-wrapper {
+    position: relative;
+    top: 7px;
+}
+.datepicker-modal.modal {
+    z-index: 999999 !important;
+    height: auto!important;
+}
+.buton-notificari {
+    background-color: #d374f6;
+    border: 0;
+    position: absolute;
+    right: 0;
+    margin-top: 1px;
+    font-size: 14px;
+    margin-right: 15px;
+    color: #fff;
+    cursor: pointer;
+    padding: 3px 5px;
+}
+.content-area {
+    width: 100% !important;
+    margin-top: 0px !important;
+}
+.modal {
+    width: 75% !important;
+    height: 75% !important;
+}
+button {
+    background-color: #d374f6;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    padding: 3px 5px;
+    margin: 1px auto;
+}
+.subcomment {
+    width: 90%;
+    left: 14%;
+    position: relative;
+    scale: 0.9;
+}
+.stergecomentariu {
+    position: absolute;
+    right: 20px;
+    color: #4b3939;
+}
+a:hover {
+    cursor: pointer;
+}
+.butonmodel_probleme {
+    padding-right: 10px;
+    cursor: pointer;
+    color: #ae296e;
+}
+.butonmodel_probleme:hover {
+    opacity: 0.8;
+}
+.butonmodel_probleme:hover i {
+    transform: scale(1.2);
+}
+.fomular-sortare .dropdown-content {
+    position: fixed !important;
+}
+.task-header {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: #f4f4f4;
+    border-bottom: 1px solid #e1e1e1;
+}
+.active-model-info {
+    cursor: pointer;
+}
+.tabs-calendar, .content-tabs {
+    max-height: 350px;
+}
+.w33 {
+    width: 32%;
+    display: inline-block;
+}
+.palah {
+    margin-top: 40px
+}
+.test {
+    width: 100%;
+    border: 1px solid black;
+}
+.test2 {
+    width: 33, 33%;
+    display: inline-block;
+    border: 1px solid black;
+}
+.selected-program .card-content {
+    overflow-x: scroll;
+}
+.macarodatapesaptamana_period {
+    margin: 0;
+    padding: 10px 0;
+    width: max-content;
+    display: block;
+}
+.macarodatapesaptamana_period:last-child {
+    overflow: hidden;
+}
+.macarodatapesaptamana_period li {
+    display: inline-block;
+    width: 350px;
+    color: #444;
+    text-align: center;
+    position: relative;
+}
+.macarodatapesaptamana_period li:not(:first-child)::after {
+    content: "";
+    width: 4px;
+    height: 69px;
+    position: absolute;
+    right: -2px;
+    background: rgba(232, 59, 59, 0.8);
+}
+.nextprev-date {
+    position: relative;
+    top: 8px;
+}
+.data-ym {
+    position: relative;
+    top: 8px;
+    font-weight: bold;
+    color: #444;
+}
+.blablabla {
+    padding: 8px 0;
+    margin: 0;
+}
+.blablabla li {
+    list-style-type: none;
+    display: inline-block;
+    width: 12.6%;
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: #777;
+    cursor: pointer;
+    color: #333;
+    font-weight: 600;
+}
+.blablabla li .active {
+    padding: 5px;
+    background: #1abc9c;
+    color: white !important
+}
+.selectat {
+    background: -webkit-linear-gradient(45deg, #7b1fa2, #7c4dff);
+    background: linear-gradient(45deg, #7b1fa2, #7c4dff);
+    color: #fff !important;
+    font-weight: bold;
+    cursor: no-drop !important;
+}
+.used {
+    background: linear-gradient(45deg, #ff5252, #f48fb1) !important;
+    position: relative;
+}
+.user-absolut {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    z-index: 9;
+    cursor: pointer;
+}
+.h-ulica.h-ulica {
+    font-size: 8px;
+    font-weight: 300;
+    position: absolute;
+    top: -10px;
+    margin-left: -5px;
+}
+.smallwidth {
+    max-width: 120px;
+}
+.modalx.bottom-sheet.modal-calendar {
+    overflow: hidden;
+}
+
+/*******/
+@media (max-width:800px){
+    .modalx.bottom-sheet{
+        max-width: 90%;
+        right: 0;
+        margin: auto;
+        left:0 ;
+    }
+}

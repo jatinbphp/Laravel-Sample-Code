@@ -1,0 +1,117 @@
+.manual-link .material-icons {
+    font-size: 15px;
+}
+
+.manual-link {
+    font-size: 15px;
+    padding-left: 25px;
+    color: #555 !important;
+    transition: all .3s linear;
+}
+
+#chapterContainer {
+    display: none;
+}
+
+.dd3-handle:hover {
+    background: #481679;
+}
+
+#knowledge-licensing-detail .licenses-link .licenses-list li {
+    background: #ffffff;
+}
+
+.licenses-list .active a {
+    color: #fff;
+
+}
+
+.licenses-link {
+    background: #fff;
+}
+
+.cuprins .subchapters a.active,
+.cuprins .subchapters a:hover {
+    color: #9c27b0;
+}
+
+.cuprins .subchapters a {
+    line-height: 15px;
+    color: #333;
+    display: block;
+    font-size: 12px;
+    margin-bottom: 15px
+}
+
+.cuprins .subchapters {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.cuprins .chapter {
+    font-size: 13px;
+    color: #0d47a1;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.cuprins {
+    word-break: break-all;
+    font-size: 12px;
+    color: #444;
+    max-height: 650px;
+    min-height: 350px;
+    padding: 0 15px 15px 15px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.bullet {
+    padding: 0 25px;
+    margin-right: 15px;
+    color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    line-height: 22px;
+    font-size: 12px;
+}
+
+.dd3-handle {
+    background: #6528a1;
+}
+
+.editor {
+    min-height: 400px;
+}
+
+#addManualContainer {
+    display: none;
+}
+
+.treejs .treejs-nodes,
+.treejs .treejs-node.treejs-placeholder {
+    padding-left: 0 !important;
+}
+
+.manual-link:hover {
+    text-decoration: none !important;
+    color: #9c27b0 !important;
+    padding-left: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.actionButtons a:hover {
+    color: #0d47a1;
+}
+
+.actionButtons a {
+    padding: 0 10px;
+    margin-left: 15px;
+    display: inline-block;
+    float: left;
+    color: #555;
+}
